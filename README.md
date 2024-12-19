@@ -4,7 +4,7 @@
 
 ---
 ### In Progress
-- **Bare-Metal**: Developing the OS directly on hardware without an underlying OS.
+- **Bare-Metal**: 
 
 ---
 ### References
